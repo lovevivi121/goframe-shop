@@ -1,14 +1,11 @@
 # 说明
 目前main分支仍然使用goframe 1.16版本实现
 
-需要goframe最新版2.2版本的朋友请查看这个项目：
-https://github.com/wangzhongyang007/goframe-shop-v2
-
 # 运行流程
 
 ## 1. 下载项目
 
-git clone https://github.com/wangzhongyang007/goframe-shop
+git clone https://github.com/lovevivi121/goframe-shop
 
 ## 2. 配置数据库
 
@@ -41,15 +38,12 @@ gf run main.go
 
 ## 微信
 
-wangzhongyang1993
+lovevivi121_qiqi
 
 ## 我的博客
 
-https://juejin.cn/user/2189882892232029/posts
+[https://juejin.cn/user/2189882892232029/posts](https://juejin.cn/user/952608930400797)
 
-## 我的公众号
-
-程序员升级打怪之旅
 
 # 交叉编译
 
